@@ -1,0 +1,19 @@
+{
+  "name": "vbc",
+  "version": "1.0.0",
+  "description": "Very Bad Chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyxo/Very-Bad-Chess.git"
+  },
+  "author": "Cyxo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyxo/Very-Bad-Chess/issues"
+  },
+  "homepage": "https://github.com/Cyxo/Very-Bad-Chess#readme"
+}
